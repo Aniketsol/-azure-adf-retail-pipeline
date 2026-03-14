@@ -1,9 +1,5 @@
 # 🚀 Azure Data Factory — Retail ETL Pipeline
 
-![Azure](https://img.shields.io/badge/Azure-Data%20Factory-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SQL](https://img.shields.io/badge/Azure-SQL%20Database-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Blob](https://img.shields.io/badge/Azure-Blob%20Storage-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
 ---
 
